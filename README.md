@@ -1,5 +1,7 @@
 # Lateral Crossing
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9cce0246-ee92-4780-9ec7-83f2d5d953ce/deploy-status)](https://app.netlify.com/sites/damonzucconi-lateral-crossing/deploys)
+
 ## Meta
 
 - **State**: production
